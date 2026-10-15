@@ -1,8 +1,8 @@
 class Pomme < Formula
   desc "Container-style CLI for headless macOS virtual machines"
   homepage "https://pommevm.dev"
-  url "https://github.com/weswhet/pomme/releases/download/v0.2.1/pomme-0.2.1-arm64.tar.gz"
-  sha256 "2b012393f938979f37e74016287d17a0ff2d0e1f314e70c3c50cffed87700016"
+  url "https://github.com/weswhet/pomme/releases/download/v0.2.2/pomme-0.2.2-arm64.tar.gz"
+  sha256 "2f067f6b24e64fdc7fc7cfde0cbc9b14dbdffd5fbea5f5941f1448c066a95143"
   license "Apache-2.0"
 
   livecheck do
